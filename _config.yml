@@ -4,5 +4,3 @@ theme: jekyll-theme-midnight
 permalink: /blog/:year/:month/:day/:title
 paginte: 7
 paginate_path: "blog/page:num"
-gems:
-  - jekyll-sitemap
