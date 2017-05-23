@@ -1,9 +1,9 @@
 name: Hanuu, Sergeant
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: minimal-mistakes-jekyll
 permalink: /blog/:year/:month/:day/:title
 paginte: 7
 paginate_path: "blog/page:num"
-
+source 'https://rubygems.org'
 
 highlighter: rouge
